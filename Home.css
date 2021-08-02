@@ -1,0 +1,63 @@
+body{
+	background-color: salmon;
+}
+
+
+#recipe-book{
+	font-size: 100px;
+}
+
+#present{
+	font-size: 100px;
+}
+
+#future{
+	font-size: 100px;
+}
+
+.buttons{
+	margin-top:200px;
+}
+
+
+
+
+/* #line{
+
+    background-color:black;
+	left: 25px;
+	top:100px;
+	width: 0.75%;
+	height: 700px;
+	position:relative;
+}
+
+#line2{
+
+    background-color:black;
+	left:475px;
+	bottom: 600px;
+	width: 0.75%;
+	height: 700px;
+	position:relative;
+}
+
+#line3{
+
+    background-color:black;
+	left:975px;
+	bottom: 1300px;
+	width: 0.75%;
+	height: 700px;
+	position:relative;
+}
+
+#line4{
+
+    background-color:black;
+	left:1400px;
+	bottom: 2000px;
+	width: 0.75%;
+	height: 700px;
+	position:relative;
+} */
