@@ -1,0 +1,41 @@
+body{
+    background-image:url(https://static.vecteezy.com/system/resources/thumbnails/001/419/164/small_2x/colorful-diagonal-lines-pattern-free-vector.png);
+    height: 2000;
+}
+
+#Enter{
+    font-size: 20px;
+}
+
+#title{
+
+    font-size: 50px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: oblique;
+
+    
+}
+
+#home{
+    margin-top: 300px;
+    background-color: plum;
+    width: 60%;
+    height: 525px;
+    
+}
+
+#Sign-Up{
+    font-size: 20px;
+   
+}
+
+#logout{
+    size: 100px;
+}
+
+
+#profile-pic{
+    margin-bottom: 50px;
+    
+}
+
