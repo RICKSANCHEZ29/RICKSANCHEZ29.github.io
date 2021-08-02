@@ -1,0 +1,18 @@
+body{
+    background-color: rgb(153, 247, 178);
+}
+
+.posts{
+    background-color: rgb(240, 230, 166);
+    font-size: 30px;
+}
+
+.date{
+    font-style: italic;
+    font-size: 15px;
+    
+}
+
+.text{
+    font-family: cursive;
+}
